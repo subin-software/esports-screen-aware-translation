@@ -1,0 +1,7 @@
+# PyTorch(CUDA 12.8)는 SETUP.md 순서대로 먼저 설치하세요
+openai-whisper
+easyocr
+yt-dlp
+requests
+rapidfuzz
+matplotlib

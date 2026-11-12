@@ -1,0 +1,110 @@
+﻿seg_id,screen_type,entity_type,spoken_form,accepted,on_screen,asr_ok,ocr_has,case,correct_A,correct_B,correct_V,correct_O
+s01,draft,team,아이지|IG,IG|Invictus Gaming,Y,0,0,asr_err_screen,0,1,0,1
+s01,draft,champion,카이사,Kai'Sa,N,1,0,asr_ok,1,1,1,1
+s02,ingame,player,제키,JackeyLove,Y,0,0,asr_err_screen,0,0,0,0
+s02,ingame,champion,칼나타,Kalista,N,0,0,asr_err_noscreen,0,0,1,1
+s02,ingame,champion,칼나타,Renata Glasc,N,0,0,asr_err_noscreen,0,0,0,0
+s02,ingame,player,주오,Zhuo,Y,0,0,asr_err_screen,0,0,1,1
+s02,ingame,player,웨이,Wei,Y,0,1,asr_err_screen,0,0,0,0
+s02,ingame,champion,오공,Wukong,N,0,0,asr_err_noscreen,0,0,0,1
+s02,ingame,player,메이코,Meiko,Y,0,0,asr_err_screen,0,0,1,1
+s03,ingame,team,탑이스포츠,TES|Top Esports,Y,0,1,asr_err_screen,0,1,1,1
+s03,ingame,player,크렘,Creme,Y,1,1,asr_ok,1,1,1,1
+s03,ingame,player,티안,Tian,Y,1,0,asr_ok,1,1,1,1
+s04,desk,player,크렘,Creme,Y,0,1,asr_err_screen,0,1,1,1
+s04,desk,player,웨이,Wei,Y,1,0,asr_ok,1,1,1,1
+s05,ingame,champion,루시안,Lucian,N,1,0,asr_ok,1,1,1,1
+s05,ingame,player,루키,Rookie,Y,0,0,asr_err_screen,0,0,1,1
+s06,draft,player,기인,Kiin,Y,1,0,asr_ok,1,1,1,1
+s06,draft,player,인스파이어드,Inspired,Y,1,0,asr_ok,1,1,1,1
+s06,draft,champion,키아나,Qiyana,N,1,0,asr_ok,1,1,1,1
+s06,draft,player,캐니언,Canyon,Y,0,0,asr_err_screen,1,0,0,1
+s07,ingame,player,듀로,Duro,Y,0,0,asr_err_screen,0,0,0,1
+s07,ingame,skill,커튼콜,Curtain call,N,0,0,asr_err_noscreen,0,0,0,0
+s07,ingame,skill,정화,Cleanse,N,0,0,asr_err_noscreen,0,0,0,1
+s08,ingame,player,쵸비,Chovy,Y,0,1,asr_err_screen,0,0,0,0
+s08,ingame,player,세인트,Saint,Y,1,1,asr_ok,1,1,1,1
+s08,ingame,skill,점멸,Flash,N,0,0,asr_err_noscreen,0,0,0,1
+s09,ingame,player,인스파,Inspired,Y,1,1,asr_ok,0,1,1,1
+s09,ingame,player,버서커,Berserker,Y,0,1,asr_err_screen,0,1,0,1
+s09,ingame,skill,점멸,Flash,N,0,0,asr_err_noscreen,1,1,1,1
+s09,ingame,champion,사이온,Sion,N,0,0,asr_err_noscreen,0,0,0,1
+s10,ingame,team,라이온,LYON,Y,0,0,asr_err_screen,0,0,0,1
+s10,ingame,player,도클라,Dhokla,Y,0,1,asr_err_screen,0,1,1,1
+s10,ingame,champion,탈리야,Taliyah,N,0,0,asr_err_noscreen,0,0,0,0
+s10,ingame,champion,판테온,Pantheon,N,0,0,asr_err_noscreen,0,0,0,0
+s11,draft,champion,키아나,Qiyana,N,0,0,asr_err_noscreen,0,0,0,0
+s11,draft,player,온,=ON,Y,0,0,asr_err_screen,0,0,1,1
+s11,draft,champion,노틸러스,Nautilus,N,1,0,asr_ok,1,1,1,1
+s12,ingame,team,비엘지|BLG,BLG|Bilibili Gaming,Y,0,0,asr_err_screen,0,0,0,1
+s12,ingame,player,나이트,Knight,Y,1,1,asr_ok,1,1,1,1
+s12,ingame,player,커리어,=Career,Y,0,0,asr_err_screen,0,0,0,0
+s13,ingame,champion,오리아나,Orianna,N,0,0,asr_err_noscreen,0,0,0,1
+s13,ingame,champion,이즈리얼,Ezreal,N,1,0,asr_ok,1,1,1,1
+s13,ingame,player,바이퍼,Viper,Y,1,1,asr_ok,1,1,1,1
+s13,ingame,player,나이트,Knight,Y,1,1,asr_ok,1,1,1,1
+s14,desk,team,디플러스기아,DK|Dplus Kia,Y,1,0,asr_ok,1,1,1,1
+s14,desk,champion,라이즈,Ryze,N,1,0,asr_ok,1,1,1,1
+s15,draft,champion,루시안,Lucian,N,1,0,asr_ok,1,1,1,1
+s15,draft,champion,빅토르,Viktor,N,1,0,asr_ok,1,1,1,1
+s15,draft,champion,올라프,Olaf,N,0,0,asr_err_noscreen,0,0,0,0
+s16,draft,player,페이즈,Peyz,Y,0,0,asr_err_screen,0,0,1,1
+s16,draft,player,칼리스테,Caliste,Y,1,0,asr_ok,0,1,1,1
+s16,draft,champion,탈리야,Taliyah,N,0,0,asr_err_noscreen,1,1,1,1
+s16,draft,champion,빅토르,Viktor,N,1,0,asr_ok,1,1,1,1
+s16,draft,champion,암베사,Ambessa,N,0,0,asr_err_noscreen,0,0,0,1
+s17,ingame,player,페이커,Faker,Y,0,0,asr_err_screen,0,0,0,0
+s17,ingame,champion,럼블,Rumble,N,0,0,asr_err_noscreen,1,1,0,1
+s17,ingame,team,티원|T1,T1,Y,1,0,asr_ok,1,1,1,1
+s17,ingame,player,페이즈,Peyz,Y,0,0,asr_err_screen,0,0,1,1
+s18,desk,champion,트리스타나,Tristana,N,1,0,asr_ok,1,1,1,1
+s18,desk,team,카르민코프,KC|Karmine Corp,N,0,0,asr_err_noscreen,0,0,0,1
+s18,desk,champion,노틸러스,Nautilus,N,1,0,asr_ok,1,1,1,1
+s18,desk,champion,카이사,Kai'Sa,N,1,0,asr_ok,1,1,1,1
+s18,desk,champion,자야,Xayah,N,0,0,asr_err_noscreen,0,0,0,0
+s19,ingame,player,페이즈,Peyz,Y,0,1,asr_err_screen,1,1,1,1
+s19,ingame,player,케리아,Keria,Y,0,0,asr_err_screen,1,1,1,1
+s19,ingame,player,칼리스테,Caliste,Y,1,1,asr_ok,0,0,1,1
+s19,ingame,player,부시오,Busio,Y,1,1,asr_ok,0,0,1,1
+s19,ingame,skill,사르르탄,Prowling Projectile,N,1,0,asr_ok,0,0,0,1
+s20,draft,player,예후,Kyeahoo,Y,1,0,asr_ok,0,0,1,1
+s20,draft,team,광동,KDF|Kwangdong Freecs,N,1,0,asr_ok,1,1,1,1
+s20,draft,champion,아리,Ahri,N,1,0,asr_ok,1,1,1,1
+s21,draft,champion,레나타,Renata Glasc,N,0,0,asr_err_noscreen,1,1,1,1
+s21,draft,team,아이지|IG,IG|Invictus Gaming,Y,1,0,asr_ok,1,1,1,1
+s21,draft,champion,바이,Vi,N,1,1,asr_ok,1,1,1,1
+s21,draft,champion,키아나,Qiyana,N,1,0,asr_ok,1,1,1,1
+s22,ingame,champion,리 신,Lee Sin,N,1,0,asr_ok,1,1,1,1
+s22,ingame,skill,강타,Smite,N,1,0,asr_ok,1,1,1,1
+s22,ingame,skill,초특급 불꽃 킥,Ultra Mega Fire Kick,N,0,0,asr_err_noscreen,0,0,0,1
+s23,ingame,team,아이지|IG,IG|Invictus Gaming,Y,1,0,asr_ok,1,1,1,1
+s23,ingame,player,더샤이,TheShy,Y,0,1,asr_err_screen,0,0,0,0
+s23,ingame,player,웨이,Wei,Y,0,0,asr_err_screen,0,0,0,1
+s23,ingame,player,루키,Rookie,Y,1,1,asr_ok,1,1,1,1
+s24,draft,champion,제이스,Jayce,N,1,0,asr_ok,1,1,1,1
+s24,draft,team,아이지|IG,IG|Invictus Gaming,Y,1,0,asr_ok,1,1,1,1
+s24,draft,team,젠지|Gen.G,GEN|Gen.G,Y,1,0,asr_ok,1,1,1,1
+s24,draft,champion,사이온,Sion,N,0,0,asr_err_noscreen,1,1,1,1
+s25,desk,player,캐니언,Canyon,Y,1,0,asr_ok,1,1,1,1
+s25,desk,player,쟈치,JiaQi,Y,0,0,asr_err_screen,0,0,1,1
+s25,desk,team,아이지|IG,IG|Invictus Gaming,Y,0,1,asr_err_screen,0,1,1,1
+s25,desk,champion,오공,Wukong,N,1,0,asr_ok,1,1,1,1
+s25,desk,champion,카밀,Camille,N,1,0,asr_ok,1,1,1,1
+s26,draft,team,티원|T1,T1,Y,1,0,asr_ok,1,1,1,1
+s26,draft,champion,녹턴,Nocturne,N,1,0,asr_ok,1,1,1,1
+s26,draft,champion,오리아나,Orianna,N,1,0,asr_ok,1,1,1,1
+s27,desk,player,나이트,Knight,Y,0,0,asr_err_screen,0,0,0,0
+s27,desk,player,빈,Bin,Y,1,0,asr_ok,1,1,1,1
+s27,desk,team,비엘지|BLG,BLG|Bilibili Gaming,Y,1,1,asr_ok,1,1,1,1
+s28,ingame,skill,공개처형,Public Execution,N,0,0,asr_err_noscreen,0,0,0,0
+s28,ingame,skill,매혹,Charm,N,0,0,asr_err_noscreen,0,0,0,1
+s28,ingame,champion,나르,Gnar,N,0,0,asr_err_noscreen,0,0,0,0
+s28,ingame,player,도란,Doran,Y,0,0,asr_err_screen,0,0,0,1
+s28,ingame,player,페이커,Faker,Y,0,0,asr_err_screen,0,0,0,0
+s29,ingame,team,비엘지|BLG,BLG|Bilibili Gaming,Y,0,0,asr_err_screen,0,0,0,0
+s29,ingame,player,온,=ON,Y,0,0,asr_err_screen,0,0,0,0
+s29,ingame,champion,세라핀,Seraphine,N,1,0,asr_ok,1,1,1,1
+s29,ingame,skill,앙코르,Encore,N,1,0,asr_ok,1,1,1,1
+s30,ingame,player,바이퍼,Viper,Y,1,1,asr_ok,1,1,1,1
+s30,ingame,player,나이트,Knight,Y,1,1,asr_ok,1,1,1,1
+s30,ingame,champion,베인,Vayne,N,0,0,asr_err_noscreen,0,0,0,1

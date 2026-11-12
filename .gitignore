@@ -1,0 +1,7 @@
+work/
+__pycache__/
+*.pyc
+.venv/
+
+# 개인 작업 메모 (지원 일정, 자기소개서 메모 등)
+CLAUDE.md

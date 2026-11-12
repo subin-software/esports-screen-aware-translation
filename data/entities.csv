@@ -1,0 +1,110 @@
+seg_id,entity_type,spoken_form,accepted,on_screen
+s01,team,아이지|IG,IG|Invictus Gaming,Y
+s01,champion,카이사,Kai'Sa,N
+s02,player,제키,JackeyLove,Y
+s02,champion,칼나타,Kalista,N
+s02,champion,칼나타,Renata Glasc,N
+s02,player,주오,Zhuo,Y
+s02,player,웨이,Wei,Y
+s02,champion,오공,Wukong,N
+s02,player,메이코,Meiko,Y
+s03,team,탑이스포츠,TES|Top Esports,Y
+s03,player,크렘,Creme,Y
+s03,player,티안,Tian,Y
+s04,player,크렘,Creme,Y
+s04,player,웨이,Wei,Y
+s05,champion,루시안,Lucian,N
+s05,player,루키,Rookie,Y
+s06,player,기인,Kiin,Y
+s06,player,인스파이어드,Inspired,Y
+s06,champion,키아나,Qiyana,N
+s06,player,캐니언,Canyon,Y
+s07,player,듀로,Duro,Y
+s07,skill,커튼콜,Curtain call,N
+s07,skill,정화,Cleanse,N
+s08,player,쵸비,Chovy,Y
+s08,player,세인트,Saint,Y
+s08,skill,점멸,Flash,N
+s09,player,인스파,Inspired,Y
+s09,player,버서커,Berserker,Y
+s09,skill,점멸,Flash,N
+s09,champion,사이온,Sion,N
+s10,team,라이온,LYON,Y
+s10,player,도클라,Dhokla,Y
+s10,champion,탈리야,Taliyah,N
+s10,champion,판테온,Pantheon,N
+s11,champion,키아나,Qiyana,N
+s11,player,온,=ON,Y
+s11,champion,노틸러스,Nautilus,N
+s12,team,비엘지|BLG,BLG|Bilibili Gaming,Y
+s12,player,나이트,Knight,Y
+s12,player,커리어,=Career,Y
+s13,champion,오리아나,Orianna,N
+s13,champion,이즈리얼,Ezreal,N
+s13,player,바이퍼,Viper,Y
+s13,player,나이트,Knight,Y
+s14,team,디플러스기아,DK|Dplus Kia,Y
+s14,champion,라이즈,Ryze,N
+s15,champion,루시안,Lucian,N
+s15,champion,빅토르,Viktor,N
+s15,champion,올라프,Olaf,N
+s16,player,페이즈,Peyz,Y
+s16,player,칼리스테,Caliste,Y
+s16,champion,탈리야,Taliyah,N
+s16,champion,빅토르,Viktor,N
+s16,champion,암베사,Ambessa,N
+s17,player,페이커,Faker,Y
+s17,champion,럼블,Rumble,N
+s17,team,티원|T1,T1,Y
+s17,player,페이즈,Peyz,Y
+s18,champion,트리스타나,Tristana,N
+s18,team,카르민코프,KC|Karmine Corp,N
+s18,champion,노틸러스,Nautilus,N
+s18,champion,카이사,Kai'Sa,N
+s18,champion,자야,Xayah,N
+s19,player,페이즈,Peyz,Y
+s19,player,케리아,Keria,Y
+s19,player,칼리스테,Caliste,Y
+s19,player,부시오,Busio,Y
+s19,skill,사르르탄,Prowling Projectile,N
+s20,player,예후,Kyeahoo,Y
+s20,team,광동,KDF|Kwangdong Freecs,N
+s20,champion,아리,Ahri,N
+s21,champion,레나타,Renata Glasc,N
+s21,team,아이지|IG,IG|Invictus Gaming,Y
+s21,champion,바이,Vi,N
+s21,champion,키아나,Qiyana,N
+s22,champion,리 신,Lee Sin,N
+s22,skill,강타,Smite,N
+s22,skill,초특급 불꽃 킥,Ultra Mega Fire Kick,N
+s23,team,아이지|IG,IG|Invictus Gaming,Y
+s23,player,더샤이,TheShy,Y
+s23,player,웨이,Wei,Y
+s23,player,루키,Rookie,Y
+s24,champion,제이스,Jayce,N
+s24,team,아이지|IG,IG|Invictus Gaming,Y
+s24,team,젠지|Gen.G,GEN|Gen.G,Y
+s24,champion,사이온,Sion,N
+s25,player,캐니언,Canyon,Y
+s25,player,쟈치,JiaQi,Y
+s25,team,아이지|IG,IG|Invictus Gaming,Y
+s25,champion,오공,Wukong,N
+s25,champion,카밀,Camille,N
+s26,team,티원|T1,T1,Y
+s26,champion,녹턴,Nocturne,N
+s26,champion,오리아나,Orianna,N
+s27,player,나이트,Knight,Y
+s27,player,빈,Bin,Y
+s27,team,비엘지|BLG,BLG|Bilibili Gaming,Y
+s28,skill,공개처형,Public Execution,N
+s28,skill,매혹,Charm,N
+s28,champion,나르,Gnar,N
+s28,player,도란,Doran,Y
+s28,player,페이커,Faker,Y
+s29,team,비엘지|BLG,BLG|Bilibili Gaming,Y
+s29,player,온,=ON,Y
+s29,champion,세라핀,Seraphine,N
+s29,skill,앙코르,Encore,N
+s30,player,바이퍼,Viper,Y
+s30,player,나이트,Knight,Y
+s30,champion,베인,Vayne,N
